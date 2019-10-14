@@ -39,5 +39,5 @@
             </div>
         </div>
     </div>
-    <p>New Paragraph</p>
+    <p>New Paragraph 12</p>
 @endsection
